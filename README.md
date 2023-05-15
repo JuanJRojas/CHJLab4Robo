@@ -47,7 +47,7 @@ El resultado se encuentra en las figuras que se muestran a continuación
 
 ||||||
 |---|---|---|---|---|
-|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Home.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4.jpeg|
+|<palign="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Home.jpeg" width="300"/></p>|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4.jpeg|
 
 En el repositorio se encuentran: 
 
@@ -59,5 +59,4 @@ En el repositorio se encuentran:
 
 ### conclusiones
 
-El uso de servicios en Matlab no es amigable con los recursos utilizados, por tal razón, aunque en python es sencillo el uso de un servicio para solucionar el problema, con Matlab es preferible el uso de un publicador para enviar mensajes hasta el PhantomX.
-
+El uso de servicios en Matlab no es amigable con los recursos utilizados, por tal razón, aunque en python es sencillo el uso de un servicio para solucionar el problema, con Matlab es preferible el uso de un publicador para enviar mensajes hasta el PhantomX. Cabe resaltar además que el uso de recursos es mucho mayor en Matlab, sobre todo con el uso de RVC Tools
