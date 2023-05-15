@@ -30,6 +30,11 @@ Se optó por utilizar el entorno de Matlab para esto, junto al toolbox de ROS y 
 
 Para poder hacer uso del toolbox de robótica de Peter Corke se realizó la tabla de parámetros según la convención de Denavit Hartenberg, el resultado se muestra en la imagen a continuación.
 
+<p align="center">
+  <img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Imágenes y video/DH.png"
+       width="600"/>
+</p>
+
 Posteriormente se obtuvo los resultados de posición para el brazo dados los movimientos angulares en la guía, estos se muestran en las imágenes a continuación:
 
 ||||||
@@ -54,8 +59,5 @@ En el repositorio se encuentran:
 
 ### conclusiones
 
-El ambiente de ROS puede llegar a ser confuso cuando no se lleva registro de todos los nodos, servicios y temas que se trabajan, por ello se recomienda el uso de notas o correr en el terminal rqt_graph, para llevar una imagen más visual de la interconexión entre nodos.
+El uso de servicios en Matlab no es amigable con los recursos utilizados, por tal razón, aunque en python es sencillo el uso de un servicio para solucionar el problema, con Matlab es preferible el uso de un publicador para enviar mensajes hasta el PhantomX.
 
-El control por medio de velocidad para la tortuga puede no entregar resultados esperados en posición si no se ejecuta de forma correcta, por lo que es preferible modificar la posición relativa o absoluta de la tortuga con su respectivo servicio.
-
-Es recomendable borrar las suscripciones y servicios y publicaciones con el comando clear el Matlab, para asegurar la detención de las acciones por su parte. El comando para eliminar el nodo maestro en Matlab es rosshutdown y, de necesitar o desear correr el script desde 0, es preferible, ya sea desactivar el nodo maestro al final del script o en los comandos, o separar la creación del nodo maestro con partimiento de secciones ' %% ', debido a que, una vez creado el nodo maestro se presenta un error al correr la función rosinit de nuevo.
