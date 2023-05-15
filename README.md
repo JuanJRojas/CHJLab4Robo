@@ -47,7 +47,7 @@ El resultado se encuentra en las figuras que se muestran a continuación
 
 ||||||
 |---|---|---|---|---|
-|<palign="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Home.jpeg" width="300"/></p>|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4.jpeg|
+|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Home.jpeg" width="300"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1.jpeg" width="300"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2.jpeg" width="300"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3.jpeg" width="300"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4.jpeg" width="300"/></p>|
 
 En el repositorio se encuentran: 
 
