@@ -12,7 +12,7 @@ Laboratorio 3 curso de robótica
 En el laboratorio se plantea el uso del ambiente de ROS, Robot Operating System para el movimiento del brazo robótico PhantomX Pincher a partir de Dynamixel One Motor, se realizó una interfaz de usuario para modificar los valores articulares del brazo por medio de un slider, además se adicionaron 5 botones para 5 poses predeterminadas, una imagen del HMI se encuentra a continuación
 
 <p align="center">
-  <img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Imágenes y video/Lab3.png"
+  <img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Imágenes y video/UI.png"
        width="800"/>
 </p>
 
