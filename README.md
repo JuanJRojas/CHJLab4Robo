@@ -74,4 +74,7 @@ En el repositorio se encuentran:
 
 ### conclusiones
 
-El uso de servicios en Matlab no es amigable con los recursos utilizados, por tal razón, aunque en python es sencillo el uso de un servicio para solucionar el problema, con Matlab es preferible el uso de un publicador para enviar mensajes hasta el PhantomX. Cabe resaltar además que el uso de recursos es mucho mayor en Matlab, sobre todo con el uso de RVC Tools
+El uso de servicios en Matlab no es amigable con los recursos utilizados, por tal razón, aunque en python es sencillo el uso de un servicio para solucionar el problema, con Matlab es preferible el uso de un publicador para enviar mensajes hasta el PhantomX. Cabe resaltar además que el uso de recursos es mucho mayor en Matlab, sobre todo con el uso de RVC Tools.
+
+
+Se debe tener en cuenta la velocidad de los movimientos para que estos no afecten físicamente al robot, ya que un movimiento muy busco puede romper el robot, también es importante tener en cuenta los límites articulares para garantizar que este no colisione o que los cables se mantengan conectados. 
