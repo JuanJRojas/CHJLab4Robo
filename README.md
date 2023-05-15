@@ -32,6 +32,31 @@ Para poder hacer uso del toolbox de robótica de Peter Corke se realizó la tabl
 
 Posteriormente se obtuvo los resultados de posición para el brazo dados los movimientos angulares en la guía, estos se muestran en las imágenes a continuación:
 
+\begin{figure}[h]
+\centering
+ \subfloat[Home]{
+   \includegraphics[width=0.4\textwidth]{[Inventor/Opt/Parte1.png](https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/HomeUI.png)}
+ }
+ \subfloat[Pose1]{
+   \includegraphics[width=0.4\textwidth]{https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1UI.png}
+ }
+ \\
+ \subfloat[Pose2]{
+   \includegraphics[width=0.4\textwidth]{(https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2UI.png)}
+ }
+ \subfloat[Pose3]{
+   \includegraphics[width=0.4\textwidth]{https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3UI.png}
+ }
+ \\
+  \subfloat[Pose4]{
+   \includegraphics[width=0.4\textwidth]{https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4UI.png}
+ }
+ \caption{PeterCorke}
+ \label{PeterCorke}
+\end{figure}
+
+\begin{figure}
+
 ||||||
 |---|---|---|---|---|
 |https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/HomeUI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4UI.png|
