@@ -55,8 +55,6 @@ Posteriormente se obtuvo los resultados de posición para el brazo dados los mov
  \label{PeterCorke}
 \end{figure}
 
-\begin{figure}
-
 ||||||
 |---|---|---|---|---|
 |https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/HomeUI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4UI.png|
