@@ -46,13 +46,13 @@ Para el uso de Matlab, se utilizó una función de publicar, que se adaptó a Ma
 El resultado de Home, Pose 1 y Pose 2 se encuentra en las figuras que se muestran a continuación
 
 ||||
-|---|---|---|---|---|
+|---|---|---|
 |<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Home.jpeg" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1.jpeg" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2.jpeg" width="400"/></p>|
 
 Por último se encuentra el resultado de Pose3 y Pose 4
 
 |||
-|---|---|---|
+|---|---|
 |<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3.jpeg" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4.jpeg" width="400"/></p>|
 
 
