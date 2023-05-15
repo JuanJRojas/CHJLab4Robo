@@ -41,13 +41,13 @@ El resultado de Home, Pose 1 y Pose 2 se encuentra así
 
 ||||
 |---|---|---|
-|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/HomeUI.jpeg" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1UI.jpeg" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2UI.jpeg" width="400"/></p>|
+|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/HomeUI.png" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1UI.png" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2UI.png" width="400"/></p>|
 
 Por último se encuentra el resultado de Pose3 y Pose 4
 
 |||
 |---|---|
-|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3UI.jpeg" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4UI.jpeg" width="400"/></p>|
+|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3UI.png" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4UI.png" width="400"/></p>|
 
 Para el uso de Matlab, se utilizó una función de publicar, que se adaptó a Matlab desde Python del código encontrado en el código [fegonzalez7]([https://link-url-here.org](https://github.com/fegonzalez7/dynamixel_one_motor.git)). Este código adaptado a matlab se encuentra en el siguiente [link]([https://github.com/JuanJRojas/CHJLab4Robo/blob/main/dynamixel_one_motor/scripts/joint_publisher.m))
 
