@@ -45,9 +45,14 @@ Para el uso de Matlab, se utilizó una función de publicar, que se adaptó a Ma
 
 El resultado se encuentra en las figuras que se muestran a continuación
 
-||||||
+||||
 |---|---|---|---|---|
-|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Home.jpeg" width="300"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1.jpeg" width="300"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2.jpeg" width="300"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3.jpeg" width="300"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4.jpeg" width="300"/></p>|
+|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Home.jpeg" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1.jpeg" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2.jpeg" width="400"/></p>|
+
+|||
+|---|---|---|
+|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3.jpeg" width="400"/></p>|<p align="center"><img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4.jpeg" width="400"/></p>|
+
 
 En el repositorio se encuentran: 
 
