@@ -13,15 +13,20 @@ En el laboratorio se plantea el uso del ambiente de ROS, Robot Operating System 
 
 <p align="center">
   <img src="https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Imágenes y video/UI.png"
-       width="800"/>
+       width="600"/>
 </p>
 
-Se optó por utilizar el entorno de Matlab para esto, junto al toolbox de ROS, con los comandos rosinit y rosshutdown, para la creación y destrucción del nodo maestro, rospublisher, rossubscriber y rossvcclient, para la creación de publicadores y suscriptores de temas así como de un objeto de servicio, como se muestra en la imagen siguiente:
+Se optó por utilizar el entorno de Matlab para esto, junto al toolbox de ROS y de Peter Corke, la interfaz gráfica permite el deslizamiento de los "slider" para modificar las primeras 4 articulaciones del robot. Además se presentan 6 botones, 5 de los cuales son "Home" y pose de 1 a 4. Estos botones modifican el valor de los slider para encontrarse en las posiciones predeterminadas de home y las cuatro poses con ángulos desde home determinadas en la guía, que corresponden a los valores que se muestran a continuación:
 
-<p align="center">
-  <img src="https://github.com/JuanJRojas/G3-JJF-Lab3rob/blob/main/CodigoMatlab.png"
-       width="800"/>
-</p>
+1. (0 0 0 0 0)
+
+2. (-25, 15, -20, 20, 0)
+
+3. (35, -35, 30, -30, 0)
+
+4. (-85, 20, -55, 17, 0)
+
+5. (-80, 35, -55, 45, 0)
 
 Se modificaron la pose relativa y la velocidad y creó un ciclo for donde se dibujaba una figura cercana a la de un triángulo con el camino de la tortuga. El recorrido realizado se muestra en la siguiente imagen:
 
