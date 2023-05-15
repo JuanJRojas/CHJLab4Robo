@@ -32,41 +32,25 @@ Para poder hacer uso del toolbox de robótica de Peter Corke se realizó la tabl
 
 Posteriormente se obtuvo los resultados de posición para el brazo dados los movimientos angulares en la guía, estos se muestran en las imágenes a continuación:
 
-\begin{figure}[h]
-\centering
- \subfloat[Home]{
-   \includegraphics[width=0.4\textwidth]{[Inventor/Opt/Parte1.png](https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/HomeUI.png)}
- }
- \subfloat[Pose1]{
-   \includegraphics[width=0.4\textwidth]{https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1UI.png}
- }
- \\
- \subfloat[Pose2]{
-   \includegraphics[width=0.4\textwidth]{(https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2UI.png)}
- }
- \subfloat[Pose3]{
-   \includegraphics[width=0.4\textwidth]{https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3UI.png}
- }
- \\
-  \subfloat[Pose4]{
-   \includegraphics[width=0.4\textwidth]{https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4UI.png}
- }
- \caption{PeterCorke}
- \label{PeterCorke}
-\end{figure}
-
 ||||||
 |---|---|---|---|---|
 |https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/HomeUI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4UI.png|
 
+Para el uso de Matlab, se utilizó una función de publicar, que se adaptó a Matlab desde Python del código encontrado en el código [fegonzalez7]([https://link-url-here.org](https://github.com/fegonzalez7/dynamixel_one_motor.git)). Este código adaptado a matlab se encuentra en el siguiente [link]([https://github.com/JuanJRojas/CHJLab4Robo/blob/main/dynamixel_one_motor/scripts/joint_publisher.m))
+
+El resultado se encuentra en las figuras que se muestran a continuación
+
+||||||
+|---|---|---|---|---|
+|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Home.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3.jpeg|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4.jpeg|
 
 En el repositorio se encuentran: 
 
--video del código en acción, encontrado en el link que se muestra a continuación [Video Laboratorio 3](https://youtu.be/XY7onDt0-YQ).
+-video del código en acción, encontrado en el link que se muestra a continuación [Video Laboratorio 4](https://youtu.be/hrOJo8k3zDY).
 
--Código de matlab usado.
+-Carpeta de dynamixel one motor utilizada para la comunicación con el Phantom X, donde en los scripts se encuentran las modificaciones realizadas para el uso de Matlab.
 
--Imágenes mostradas dentro de este Read me.
+-Imágenes mostradas dentro de este Read me, dentro de la carpeta de imágenes y video.
 
 ### conclusiones
 
