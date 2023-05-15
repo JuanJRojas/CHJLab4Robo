@@ -28,12 +28,14 @@ Se optó por utilizar el entorno de Matlab para esto, junto al toolbox de ROS y 
 
 5. (-80, 35, -55, 45, 0)
 
-Se modificaron la pose relativa y la velocidad y creó un ciclo for donde se dibujaba una figura cercana a la de un triángulo con el camino de la tortuga. El recorrido realizado se muestra en la siguiente imagen:
+Para poder hacer uso del toolbox de robótica de Peter Corke se realizó la tabla de parámetros según la convención de Denavit Hartenberg, el resultado se muestra en la imagen a continuación.
 
-<p align="center">
-  <img src="https://github.com/JuanJRojas/G3-JJF-Lab3rob/blob/main/TurtlePath.png"
-       width="400"/>
-</p>
+Posteriormente se obtuvo los resultados de posición para el brazo dados los movimientos angulares en la guía, estos se muestran en las imágenes a continuación:
+
+||||||
+|---|---|---|---|---|
+|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/HomeUI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose1UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose2UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose3UI.png|https://github.com/JuanJRojas/CHJLab4Robo/blob/main/Im%C3%A1genes%20y%20video/Pose4UI.png|
+
 
 En el repositorio se encuentran: 
 
